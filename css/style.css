@@ -23,7 +23,7 @@ nav {
     align-items: center;
 }
 
-nav li{
+nav li {
     display: inline-block;
     line-height: 50px;
 }
@@ -37,28 +37,6 @@ nav li a {
     margin: 5px;
 }
 
-<<<<<<< HEAD
-.slidier img {
-    width: 98.9vw;
-    height: 93vh;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-}
-
-.slider-P {
-    display: flex;
-    justify-content: space-between;
-}
-
-.card {
-    margin: 2rem;
-    width: 10rem;
-    height: 10rem;
-    border: #069C54 solid 1rem;
-}
-=======
 nav a:hover {
     background: #7c7e7e;
 }
->>>>>>> 72cd35ec0f0b09b50b7a315c28f60ab3323e6b52
