@@ -9,7 +9,8 @@ html {
 }
 
 .colornav {
-    background-color: #069C54;
+    background-color: #fff;
+    color: #000;
 }
 
 .BarraNav {
@@ -22,13 +23,21 @@ nav {
     align-items: center;
 }
 
-nav a {
-    text-decoration: none;
-    margin: 1rem;
-    font-size: 2rem;
-    color: #ffff;
+nav li{
+    display: inline-block;
+    line-height: 50px;
 }
 
+nav li a {
+    display: block;
+    text-decoration: none;
+    padding: 0 10px;
+    font-size: 20px;
+    color: #000;
+    margin: 5px;
+}
+
+<<<<<<< HEAD
 .slidier img {
     width: 98.9vw;
     height: 93vh;
@@ -48,3 +57,8 @@ nav a {
     height: 10rem;
     border: #069C54 solid 1rem;
 }
+=======
+nav a:hover {
+    background: #7c7e7e;
+}
+>>>>>>> 72cd35ec0f0b09b50b7a315c28f60ab3323e6b52
