@@ -1,4 +1,4 @@
-var owl = $('.owl-carousel');
+var owl = $('.owl-carouselh');
 owl.owlCarousel({
     items: 1,
     loop: true,
@@ -7,11 +7,11 @@ owl.owlCarousel({
     autoplayHoverPause: true
 });
 
-var owl1 = $('.owl-carousel');
+var owl1 = $('.owl-carouselP');
 owl1.owlCarousel({
     center: true,
     loop: true,
-    items: 4,
+    items: 3,
     loop: true,
     autoplay: true,
     autoplayTimeout: 3000,

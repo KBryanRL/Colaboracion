@@ -27,11 +27,12 @@ nav a {
     font-size: 2rem;
     text-decoration: none;
     text-align: center;
-    margin: 1rem;
+    margin: 1.5rem;
+    padding: 0.5rem;
 }
 
 nav a:hover {
-    transition: all .3s ease-out;
+    transition: 1s;
     color: #fff;
     background-color: #069C54;
     border-radius: 1rem;
@@ -43,7 +44,5 @@ nav a:hover {
 }
 
 .card {
-    height: 10rem;
-    width: 10rem;
-    border: solid #000 0.1rem;
+    border: #000 0.5rem solid;
 }
