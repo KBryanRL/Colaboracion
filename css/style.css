@@ -28,3 +28,11 @@ nav a {
     font-size: 2rem;
     color: #ffff;
 }
+
+.slidier img {
+    width: 98.9vw;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
