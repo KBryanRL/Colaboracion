@@ -29,6 +29,7 @@ nav a {
     text-align: center;
     margin: 1.5rem;
     padding: 0.5rem;
+    color: #000;
 }
 
 nav a:hover {
@@ -39,10 +40,11 @@ nav a:hover {
     padding: 0.5rem;
 }
 
-.owl-carousel {
-    display: flex;
+.card {
+    height: 30rem;
+    margin: 1rem;
 }
 
-.card {
-    border: #000 0.5rem solid;
+.footer-card {
+    background-color: #c7c7c7;
 }
