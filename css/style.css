@@ -36,3 +36,15 @@ nav a {
     background-size: cover;
     background-position: center;
 }
+
+.slider-P {
+    display: flex;
+    justify-content: space-between;
+}
+
+.card {
+    margin: 2rem;
+    width: 10rem;
+    height: 10rem;
+    border: #069C54 solid 1rem;
+}
