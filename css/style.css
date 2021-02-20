@@ -23,20 +23,27 @@ nav {
     align-items: center;
 }
 
-nav li {
-    display: inline-block;
-    line-height: 50px;
-}
-
-nav li a {
-    display: block;
+nav a {
+    font-size: 2rem;
     text-decoration: none;
-    padding: 0 10px;
-    font-size: 20px;
-    color: #000;
-    margin: 5px;
+    text-align: center;
+    margin: 1rem;
 }
 
 nav a:hover {
-    background: #7c7e7e;
+    transition: all .3s ease-out;
+    color: #fff;
+    background-color: #069C54;
+    border-radius: 1rem;
+    padding: 0.5rem;
+}
+
+.owl-carousel {
+    display: flex;
+}
+
+.card {
+    height: 10rem;
+    width: 10rem;
+    border: solid #000 0.1rem;
 }
