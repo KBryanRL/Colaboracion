@@ -40,11 +40,33 @@ nav a:hover {
     padding: 0.5rem;
 }
 
+h2 {
+    margin: 0;
+    text-align: center;
+}
+
 .card {
-    height: 30rem;
+    height: 40rem;
     margin: 1rem;
+    padding: 1rem;
 }
 
 .footer-card {
-    background-color: #c7c7c7;
+    height: 30rem;
+    padding: 1rem;
+}
+
+.SeparadorV {
+    height: 0.5rem;
+    width: 100%;
+    background-color: #000;
+    border-radius: 1rem;
+    text-align: center;
+    margin: 1rem 0 1rem 0;
+}
+
+.precio {
+    text-align: center;
+    font: bold;
+    font-size: 2rem;
 }

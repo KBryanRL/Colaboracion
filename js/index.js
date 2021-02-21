@@ -13,9 +13,10 @@ owl1.owlCarousel({
     loop: true,
     items: 3,
     loop: true,
-    autoplay: true,
-    autoplayTimeout: 3000,
+    nav: true,
+    // autoplay: true,
+    //autoplayTimeout: 3000,
     autoplayHoverPause: true,
     margin: false,
-    nav: true,
+
 });
