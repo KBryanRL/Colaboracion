@@ -14,8 +14,8 @@ owl1.owlCarousel({
     items: 3,
     loop: true,
     nav: true,
-    // autoplay: true,
-    //autoplayTimeout: 3000,
+    autoplay: true,
+    autoplayTimeout: 3000,
     autoplayHoverPause: true,
     margin: false,
 

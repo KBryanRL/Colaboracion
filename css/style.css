@@ -40,6 +40,13 @@ nav a:hover {
     padding: 0.5rem;
 }
 
+.item .imgc {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 90vh;
+}
+
 h2 {
     margin: 0;
     text-align: center;
@@ -69,4 +76,13 @@ h2 {
     text-align: center;
     font: bold;
     font-size: 2rem;
+}
+
+.publicidad {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-image: url('../img/imagenes/seccionP.jpg');
+    height: 70vh;
+    width: 100%;
 }
