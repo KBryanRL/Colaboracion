@@ -32,14 +32,13 @@ a {
     background-size: 0% 2px;
     transition: background-size .3s;
     margin: 5px;
-    color: #000;
-    color: #f00;
+    color: #01140b;
 }
 
-a:hover, a:focus {
+a:hover,
+a:focus {
     background-size: 100% 2px;
 }
-
 
 .item .imgc {
     background-repeat: no-repeat;
@@ -87,4 +86,3 @@ h2 {
     height: 70vh;
     width: 100%;
 }
-
