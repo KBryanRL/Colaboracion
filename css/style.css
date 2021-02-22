@@ -33,6 +33,7 @@ a {
     transition: background-size .3s;
     margin: 5px;
     color: #000;
+    color: #f00;
 }
 
 a:hover, a:focus {
