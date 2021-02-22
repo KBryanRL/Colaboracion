@@ -21,7 +21,7 @@ html {
 nav {
     display: flex;
     align-items: center;
-    font-size: 20px;
+    font-size: 1.5rem;
 }
 
 a {
@@ -29,17 +29,17 @@ a {
     background-image: linear-gradient(currentColor, currentColor);
     background-position: 0% 100%;
     background-repeat: no-repeat;
-    background-size: 0% 2px;
+    background-size: 0% 0.2rem;
     transition: background-size .3s;
-    margin: 5px;
+    margin: 1rem;
     color: #01140b;
 }
 
 a:hover,
 a:focus {
-    background-size: 100% 2px;
+    background-size: 100% 0.2rem;
     color: #069C54;
-    transition: 0.s;
+    
 }
 
 .item .imgc {
