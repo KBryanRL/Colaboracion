@@ -38,6 +38,7 @@ a {
 a:hover,
 a:focus {
     background-size: 100% 2px;
+    color: #069C54;
 }
 
 .item .imgc {
